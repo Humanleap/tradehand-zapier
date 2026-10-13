@@ -1,0 +1,17 @@
+{
+  "name": "tradehand",
+  "version": "1.0.0",
+  "description": "Find UK tradespeople and trade businesses with Tradehand.",
+  "scripts": {
+    "test": "jest --testTimeout 10000"
+  },
+  "dependencies": {
+    "zapier-platform-core": "19.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0",
+    "zapier-platform-cli": "19.2.0"
+  },
+  "private": true,
+  "main": "index.js"
+}
